@@ -6,7 +6,7 @@
 	<groupId>id.co</groupId>
 	<artifactId>SimpleAPI</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>Simple-Api</name>
 	
