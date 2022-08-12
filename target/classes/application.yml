@@ -1,6 +1,5 @@
 server:
-  port: 8082
-  contextPath: /simple-api
+  port: 8080
 
 spring:
   jpa:
